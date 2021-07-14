@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{704CDCD0-9475-4DAC-9955-D7B5BFCA7B60}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4E14C6C6-4043-477E-BF1C-6E33C30C2B5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsApp.Test", "NewsApp.Test\NewsApp.Test.csproj", "{964A97FE-F163-4A11-ABE2-D2BB579A6DA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThomsonReuters.Test.WhiteArk.Apps.NA", "ThomsonReuters.Test.WhiteArk.Apps.NewsApp\ThomsonReuters.Test.WhiteArk.Apps.NA.csproj", "{EB0DC713-917B-4860-8282-1719D77741AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{964A97FE-F163-4A11-ABE2-D2BB579A6DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964A97FE-F163-4A11-ABE2-D2BB579A6DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964A97FE-F163-4A11-ABE2-D2BB579A6DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964A97FE-F163-4A11-ABE2-D2BB579A6DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB0DC713-917B-4860-8282-1719D77741AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0DC713-917B-4860-8282-1719D77741AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0DC713-917B-4860-8282-1719D77741AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0DC713-917B-4860-8282-1719D77741AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32011B92-B6B4-45E3-B5E1-3F5DFEDDD73F}
+	EndGlobalSection
+EndGlobal

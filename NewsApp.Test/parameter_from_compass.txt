@@ -1,0 +1,1 @@
+browser=eikon&environment=prod&datacenter=amers1&username=gpic-eikon-hp-emea-1@refinitiv.com&password=Secret12

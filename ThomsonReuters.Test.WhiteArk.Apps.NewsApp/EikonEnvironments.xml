@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EikonEnvironments>
+  <environment name ="BETA">
+    <url>https://amers1.views.cp.reutest.com/</url>    
+  </environment>
+  <environment name ="ALPHA">
+    <url>https://amers1.views.cp.icp2.mpp.reutest.com/</url>    
+  </environment>
+  <environment name ="PROD">
+    <url>https://amers2.views.cp.thomsonreuters.com/</url>
+  </environment>
+</EikonEnvironments>
